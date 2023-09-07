@@ -1,0 +1,6 @@
+Implementacion en la pagina
+1- Tipo de fuente de familia
+2- Cursor personalizados
+
+
+
